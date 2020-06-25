@@ -1,10 +1,10 @@
 # ReadMe
 
-# NBA Player Salary Prediction Model
-
 ***
 
-# By Joseph Cohen
+# NBA Player Salary Prediction Model
+
+## By Joseph Cohen
 
 ***
 
@@ -14,7 +14,7 @@ The goal of this project is to examine indivdual statistics from the 2016-17 NBA
 
 ***
 
-# Business / Real-World Application
+# Business Application
 
 I see two main applications for this project: Management and Players / Player Agents. For management, if they can develop a good model to clearly understand any player's expected or statsitical value, they will understand how much they should spend on certain players. In addition, when they enter a negotiation, they will understand whether they have leverage or don't have leverage and when to pull the trigger if they luck into a bargain. Having a good model is a powerful tool for NBA executives and genreal managers. Similarly, players and their agenets could also use this model to understand how much they are worth and give them context in salary negotiations. 
 
